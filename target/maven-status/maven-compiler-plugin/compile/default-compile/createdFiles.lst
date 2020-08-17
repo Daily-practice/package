@@ -1,0 +1,17 @@
+com\xiaoxin\gdata\config\GainToken.class
+com\xiaoxin\gdata\util\ResponseUtil.class
+com\xiaoxin\gdata\common\ResponseResult.class
+com\xiaoxin\gdata\util\HttpResult.class
+com\xiaoxin\gdata\XiaoxinGdataApplication.class
+com\xiaoxin\gdata\config\QueryDistributionInformation.class
+com\xiaoxin\gdata\config\SwaggerConfig.class
+com\xiaoxin\gdata\service\DistributionStepByStep.class
+com\xiaoxin\gdata\util\HttpClient.class
+com\xiaoxin\gdata\common\ResponseCode.class
+com\xiaoxin\gdata\config\RequestHeaders.class
+com\xiaoxin\gdata\util\HostUtils.class
+com\xiaoxin\gdata\common\ResponseResult$ResponseParam.class
+com\xiaoxin\gdata\entity\VehicleInformation.class
+com\xiaoxin\gdata\service\ExecuteTaskService.class
+com\xiaoxin\gdata\util\JDBCUtils.class
+com\xiaoxin\gdata\controller\DistributionLinkController.class
